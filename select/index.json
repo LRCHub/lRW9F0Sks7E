@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "equal",
+  "base_artist": "AZKi",
+  "createdAt": "2025-12-18T08:29:33.770780Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Equal Ways",
+      "artist": "Clan of Xymox",
+      "has_synced": true,
+      "path": "select/01_Equal_Ways_Clan_of_Xymox.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Whole Is Equal to the Sum of Its Parts",
+      "artist": "Ruby",
+      "has_synced": true,
+      "path": "select/02_The_Whole_Is_Equal_to_the_Sum_of_Its_Parts_Ruby.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Equal Mind",
+      "artist": "Beach House",
+      "has_synced": true,
+      "path": "select/03_Equal_Mind_Beach_House.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Equal Rights",
+      "artist": "Nuclear Assault",
+      "has_synced": false,
+      "path": "select/04_Equal_Rights_Nuclear_Assault.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Equal Rights",
+      "artist": "Satanic Surfers",
+      "has_synced": true,
+      "path": "select/05_Equal_Rights_Satanic_Surfers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Equal in the Darkness",
+      "artist": "Steve Aoki feat. Jolin Tsai & MAX",
+      "has_synced": true,
+      "path": "select/06_Equal_in_the_Darkness_Steve_Aoki_feat._Jolin_Tsai_&_MAX.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Equal in the Darkness",
+      "artist": "Steve Aoki, Jolin Tsai, Max",
+      "has_synced": true,
+      "path": "select/07_Equal_in_the_Darkness_Steve_Aoki,_Jolin_Tsai,_Max.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Equal Rights",
+      "artist": "The Lonely Island feat. P!nk",
+      "has_synced": true,
+      "path": "select/08_Equal_Rights_The_Lonely_Island_feat._P!nk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Equal Rights",
+      "artist": "The Lonely Island",
+      "has_synced": true,
+      "path": "select/09_Equal_Rights_The_Lonely_Island.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Equal",
+      "artist": "Andrew Bayer feat. Asbjørn",
+      "has_synced": true,
+      "path": "select/10_Equal_Andrew_Bayer_feat._Asbjørn.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Equal Rights",
+      "artist": "Peter Tosh",
+      "has_synced": false,
+      "path": "select/11_Equal_Rights_Peter_Tosh.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Equal Rights",
+      "artist": "Peter Tosh",
+      "has_synced": true,
+      "path": "select/12_Equal_Rights_Peter_Tosh.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Equal in the Darkness (Steve Aoki Character X Version)",
+      "artist": "Steve Aoki feat. Jolin Tsai & MAX",
+      "has_synced": true,
+      "path": "select/13_Equal_in_the_Darkness_(Steve_Aoki_Character_X_Version)_Steve_Aoki_feat._Jolin_Tsai_&_MAX.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Equal in the Darkness (Steve Aoki Character X Version) (feat. MAX)",
+      "artist": "Steve Aoki, Jolin Tsai, MAX",
+      "has_synced": true,
+      "path": "select/14_Equal_in_the_Darkness_(Steve_Aoki_Character_X_Version)_(feat._MAX)_Steve_Aoki,_Jolin_Tsai,_MAX.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "equal",
+      "artist": "AZKi",
+      "has_synced": false,
+      "path": "select/pl_01_equal_AZKi.txt"
+    }
+  ]
+}
